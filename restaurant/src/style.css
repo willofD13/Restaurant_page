@@ -1,0 +1,19 @@
+#content {
+    color: aliceblue;
+    font-size: xx-large;
+}
+
+h2 {
+    -webkit-text-stroke: 1px black;
+}
+
+body {
+    background-image: url('./download.jpeg');
+  }
+
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
