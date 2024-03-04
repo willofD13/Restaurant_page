@@ -1,6 +1,10 @@
-#content {
+.home {
+    font-size: x-large;
     color: aliceblue;
+    padding: 10px;
     -webkit-text-stroke: 0.2px black;
+    background-color: rgba(0, 0, 0, .5);
+    align-content: center;
 }
 
 .container {
